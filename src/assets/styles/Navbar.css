@@ -1,0 +1,16 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+
+}
+
+nav a {
+  color: inherit;
+  font-size: 23px;
+  margin: 0 25px;
+  transition: all 0.3s;
+  font-weight: bolder;
+  text-decoration: none;
+}
